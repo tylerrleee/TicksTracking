@@ -1,5 +1,7 @@
 # Tracking Ticks Across a Changing Climate
 
+*refer to Report.pdf for a full report*
+
 **A Multi‑NEON Site Analysis of Temperature, Humidity, Precipitation on Tick Population Dynamics in the U.S.**  
 _Tien Le, Shobha Ratnam Priya, Shaarav Bhosale, Natalie Bowman, Kaitlyn Harrison_  
 _IDS2935: Can Big Data Save the Earth?_ — April 30, 2025  
@@ -8,10 +10,10 @@ _IDS2935: Can Big Data Save the Earth?_ — April 30, 2025
 
 ## Table of Contents
 
-1. [Project Overview](#project‑overview)  
-2. [Background & Motivation](#background‑motivation)  
-3. [Data Sources](#data‑sources)  
-4. [Installation & Setup](#installation‑setup)  
+1. Project Overview
+2. Background & Motivation)  
+3. Data Sources](#data‑sources)  
+4. Installation & Setup
 5. [Methodology](#methodology)  
 6. [Key Findings](#key‑findings)  
 7. [Usage](#usage)  
@@ -41,10 +43,10 @@ Ticks are expanding their range in the U.S., carrying diseases such as Lyme dise
 
 ## Methodology
 
-- **refer to Report.pdf
+- *refer to Report.pdf*
 
 ## Key Findings
 
-- **Temperature: Optimal tick activity between 20–25 °C; ORNL showed stronger temperature–tick correlations than HARV.
-- **Humidity: Peak tick counts at 70–80 % RH; HARV ticks preferred slightly lower RH (70–75 %) vs. ORNL (75–80 %).
-- Precipitation: No clear linear relationship; both sites experienced predominantly light rainfall (< 0.6 mm), limiting statistical power—literature suggests moderate moisture benefits ticks but heavy rains inhibit activity.
+- **Temperature**: Optimal tick activity between 20–25 °C; ORNL showed stronger temperature–tick correlations than HARV.
+- **Humidity**: Peak tick counts at 70–80 % RH; HARV ticks preferred slightly lower RH (70–75 %) vs. ORNL (75–80 %).
+- **Precipitation**: No clear linear relationship; both sites experienced predominantly light rainfall (< 0.6 mm), limiting statistical power—literature suggests moderate moisture benefits ticks but heavy rains inhibit activity.
