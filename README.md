@@ -1,6 +1,6 @@
 # Tracking Ticks Across a Changing Climate
 
-*refer to Report.pdf for a full report*
+*[refer to Report.pdf for a full report](https://github.com/tylerrleee/TicksTracking/blob/LAB5/Report.pdf)*
 
 **A Multi‑NEON Site Analysis of Temperature, Humidity, Precipitation on Tick Population Dynamics in the U.S.**  
 _Tien Le, Shobha Ratnam Priya, Shaarav Bhosale, Natalie Bowman, Kaitlyn Harrison_  
