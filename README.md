@@ -4,7 +4,7 @@
 
 **A Multi‑NEON Site Analysis of Temperature, Humidity, Precipitation on Tick Population Dynamics in the U.S.**  
 _Tien Le, Shobha Ratnam Priya, Shaarav Bhosale, Natalie Bowman, Kaitlyn Harrison_  
-_IDS2935: Can Big Data Save the Earth?_ — April 30, 2025  
+— April 30, 2025  
 
 ---
 
